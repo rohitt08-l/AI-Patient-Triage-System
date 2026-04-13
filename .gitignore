@@ -68,3 +68,6 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+# Large datasets
+data/*.csv
+!data/sample_patient_triage.csv
