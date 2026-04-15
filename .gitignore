@@ -71,3 +71,8 @@ dist/
 # Large datasets
 data/*.csv
 !data/sample_patient_triage.csv
+# =========================
+# Logs
+# =========================
+logs/
+*.log
