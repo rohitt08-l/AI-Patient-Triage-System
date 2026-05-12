@@ -41,5 +41,5 @@ df["triage_label"] = df.apply(assign_triage, axis=1)
 
 df.to_csv("data/patient_triage.csv", index=False)
 
-print("✅ Triage dataset created successfully")
+print("Triage dataset created successfully")
 print(df["triage_label"].value_counts())
