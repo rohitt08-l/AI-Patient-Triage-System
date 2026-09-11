@@ -3,3 +3,6 @@ AI-powered healthcare chatbot that predicts patient urgency level using ML, rule
 
 Run command - 
 streamlit run .\app\main.py
+
+Author - 
+Rohit Patil
